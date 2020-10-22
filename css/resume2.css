@@ -1,0 +1,26 @@
+header{
+  font-size: 30px;
+}
+ .two{
+font-size: 20px;
+}
+.one{
+  font-size: 20px;
+}
+.one p{
+  font-size: 25px;
+}
+.three{
+  font-size: 25px;
+}
+footer table{
+  width:400px;
+  height:300px;
+}
+footer table th,td{
+    border-bottom: 2px solid #ddd;
+}
+.t{
+  background-color: lightgreen;
+  border:90%;
+}

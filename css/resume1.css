@@ -1,0 +1,36 @@
+img{
+  border-radius: 50%;
+  border:2px solid green;
+}
+.one p{
+  font-size: 30px;
+}
+.two .one{
+  font-size: 28px;
+}
+.t{
+background-color: lightgreen;
+border-radius: 90%;
+}
+table {
+  width:400px;
+  height:300px;
+
+}
+table t{
+  border:1px solid red;
+}
+.three p{
+  font-size: 20px;
+}
+.three li{
+  font-size: 18px;
+}
+table{
+  width:400px;
+  height:300px;
+
+}
+.five table th,td{
+  border-bottom: 2px solid #ddd;
+}
